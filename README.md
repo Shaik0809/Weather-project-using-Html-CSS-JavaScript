@@ -88,5 +88,6 @@ A clean, responsive web app for quickly checking **current weather** for any cit
 
 ## License
 MIT
-### Live Demo 
+
+## Live Demo 
  https://shaik0809.github.io/Weather-project-using-Html-CSS-JavaScript/
